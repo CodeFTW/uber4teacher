@@ -6,6 +6,8 @@
 (que desejam aprender um novo idioma) dos professores particulares que 
 desejam ter uma renda extra atuando como professor particular na sua residência 
 ou na casa do aluno.
-- Sobre a monetização: No início o projeto vai lucrar somente com 
-o pagamento da mensalidade (estimada em (R$ 49,90) pelo professor 
-que deseja fazer parte deste projeto e ter sua pagina (currículo) 
+- Sobre a monetização: Vamos dividir em 3 partes: 
+No início o projeto vai lucrar somente com o pagamento da mensalidade (estimada em (R$ 49,90) pelo professor que deseja fazer parte deste projeto e ter sua pagina (currículo). 
+Numa segunda etapa vamos evoluir com um pagamento diferenciado aos professores que desejam ser destaque na sua região. Numa terceira etapa podemos evoluir adicionando o pagamento do aluno ao porfessor usando a plataforma, neste caso Alem dos R$ 49,00
+o professor a uber4teacher ficaria com uma porcentagem do pagamento e passando o restante ao professor.
+
